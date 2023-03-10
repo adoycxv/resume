@@ -1,33 +1,31 @@
 # 정지영
-123 Main Street, Anytown USA | adoycxv@ewhain.net | (123) 456-7890
+서울툭별시 강서구 양천로75길 19 | adoycxv@ewhain.net | 010-1234-5678
 
-## Summary
-Experienced marketing professional with a proven track record of driving successful campaigns for top brands. Skilled in developing and executing marketing strategies that increase brand awareness and drive revenue. Proficient in a variety of marketing tools, including social media, email marketing, and content creation.
+## 소개
+성실하고 창의적인 개발자로서 5년 이상의 경력을 가지고 있습니다. 풍부한 경험과 기술적 지식으로 고객 만족을 위해 최선을 다하고 있습니다. 
 
-## Work Experience
-### Senior Marketing Manager, XYZ Corporation
-*June 2019 - Present*
-- Develop and execute marketing campaigns across multiple channels, resulting in a 30% increase in revenue year-over-year
-- Manage a team of five marketing professionals and provide coaching and guidance to ensure campaign success
-- Analyze campaign data to optimize performance and adjust strategies as necessary
+## 경력
+### 서비스 기획 인턴, 주식회사 필로토
+*2023년 1월 - 2023년 2월*
+- 앱 필로토의 웹사이트를 기획하였습니다.
+- 메타 마케팅 기획안을 구상하였습니다.
+- 프로젝트 일정과 진행상황을 관리하였습니다.
 
-### Marketing Manager, ABC Company
-*January 2016 - May 2019*
-- Created and executed social media and email marketing campaigns that resulted in a 20% increase in website traffic
-- Collaborated with cross-functional teams to develop new product launches and promotional campaigns
-- Conducted market research to identify new opportunities for brand growth
+### 프론트엔드 개발자, XYZ 주식회사
+*2016년 9월 - 2019년 5월*
+- AngularJS 및 jQuery를 사용하여 웹 페이지를 개발하였습니다.
+- 웹 성능 최적화를 위한 다양한 방법을 연구하고 적용하였습니다.
+- Git을 사용하여 코드 버전 관리를 수행하였습니다.
 
-## Education
-### Bachelor of Business, Ewha Womans University
-*Graduated August 2023*
-- Member of the National Marketing Association
-- Completed coursework in marketing strategy, consumer behavior, and digital marketing
+## 학력
+### 컴퓨터공학 학사, 가나다 대학교
+*2016년 3월 졸업*
+- 전공 과목: 자료구조, 알고리즘, 데이터베이스, 소프트웨어공학 등
 
-## Skills
-- Marketing strategy development
-- Social media marketing
-- Email marketing
-- Content creation
-- Data analysis
-- Project management
-- Team leadership
+## 기술
+- Vue.js, React, AngularJS, jQuery 등 프론트엔드 개발 프레임워크 경험
+- Git, SVN 등 코드 버전 관리 도구 경험
+- HTML, CSS, JavaScript 등 웹 기술 경험
+- UX/UI 디자인 경험
+- Agile 개발 방법론 경험
+
